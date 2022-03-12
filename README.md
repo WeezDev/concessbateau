@@ -5,7 +5,7 @@
 - Download mapping: https://mega.nz/file/qHpE1AIC#J6efprgmUIIUkBoCPaggRiIzB9B3KhrImISPSkZRUe0
 
 - ensure weez_boat
-ensure boatdealer
+- ensure boatdealer
 
 # MODIFICATION
 - Point Action Patron: client/weez_boss/ligne110 et client/weez_boss/ligne120
