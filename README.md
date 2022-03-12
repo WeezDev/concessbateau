@@ -3,6 +3,7 @@
 
 # Installation
 - Download mapping: https://mega.nz/file/qHpE1AIC#J6efprgmUIIUkBoCPaggRiIzB9B3KhrImISPSkZRUe0
+- Put SQL
 
 - ensure weez_boat
 - ensure boatdealer
